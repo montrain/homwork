@@ -1,0 +1,39 @@
+
+body {
+	margin: 0 auto;
+	width: 800px;
+	padding: 0;
+	background-image: linear-gradient(to bottom, #2ec158, rgb(17, 138, 55));
+	font-family: Helvetica, sans-serif;
+	font-size: 62.5%;
+	color: #333;
+}
+	
+
+	
+
+
+	
+#t{
+	background-color: rgb(49, 98, 0);
+	color: rgb(255, 255, 255);
+	margin: 0 auto ;
+	margin-top: 0px;
+	width: 3000px;
+	color: #fff;
+	
+}
+
+#under{
+	
+	clear: both;
+	background:none;
+	padding: 10px;
+	text-align: center;
+	color: #ffffff;
+}
+
+
+
+
+
